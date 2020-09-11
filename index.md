@@ -4,4 +4,4 @@ Esse repositório contém exemplos de códigos usando a biblioteca gráfica [thr
 
 ## Spinning Cube
 
-Um exemplo básico onde possui apenas um cubo girando. [Demo](https://jadsonluan.github.io/showcase-three-js/spinning-cube.html)
+Um exemplo básico onde possui apenas um cubo girando. [Demo](https://jadsonluan.github.io/showcase-three-js/src/spinning-cube.html)
