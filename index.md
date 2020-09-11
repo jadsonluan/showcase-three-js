@@ -8,4 +8,4 @@ Um exemplo básico onde possui apenas um cubo girando. [Demo](https://jadsonluan
 
 ## Solar System [WIP]
 
-Um exemplo com o sistema solar. [Demo](https://jadsonluan.github.io/showcase-three-js/examples/solr-system.html)
+Um exemplo com o sistema solar. [Demo](https://jadsonluan.github.io/showcase-three-js/examples/solar-system.html)
